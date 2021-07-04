@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with projects ideas
 - 🆒 Discord: **Butters#9668**
 - 🌐 Website: [soon](https://github.com/Butterski)
+- 🛑 Codewars: [click](https://www.codewars.com/users/Butterski)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterski&layout=compact" alt="butterski" /></p>
