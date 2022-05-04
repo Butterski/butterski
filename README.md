@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning:  **React** ⚛️ 
 - 🤔 I’m looking for help with projects ideas
 - 🆒 Discord: **Butters#9668**
-- 🌐 Website: [soon](https://github.com/Butterski)
+- 🌐 Website: [here](https://butterski.github.io/stronka/)
 - 🛑 Codewars: [click](https://www.codewars.com/users/Butterski)
 
 <h3 align="left">Languages and Tools:</h3>
