@@ -2,7 +2,7 @@
 #### 
 
 
-- 🌱 I’m currently learning:  **React** ⚛️ 
+- 🌱 I’m currently learning:  **Node.js** 
 - 🤔 I’m looking for help with projects ideas
 - 🆒 Discord: **Butters#9668**
 - 🌐 Website: [here](https://butterski.github.io/stronka/)
