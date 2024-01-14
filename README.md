@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milosz</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-<h3 align="center">HackYeah Hackathon 2023 Winner</h3>
+<h2 align="center">HackYeah Hackathon 2023 Winner</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=butterski&label=Profile%20views&color=0e75b6&style=flat" alt="butterski" /> </p>
 
