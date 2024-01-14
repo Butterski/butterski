@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **discord: Butters#9668**
 
-- 📄 Know about my experiences [https://butterski.github.io/stronka/](https://butterski.github.io/stronka/)
+- 📄 Know about my experiences [https://butterski.github.io/cv/](https://butterski.github.io/cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
