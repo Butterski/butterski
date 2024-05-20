@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=butterski&label=Profile%20views&color=0e75b6&style=flat" alt="butterski" /> </p>
 
-- 🌱 I’m currently learning **Containerisation 🐳**
+- 🌱 I’m currently learning **Kubernetes 🐳**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Butterski](https://github.com/Butterski)
 
