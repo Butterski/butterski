@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A passionate developer from Poland<br>HackYeah Hackathon 2023 Winner</h3>
+<h3 align="left"Python Cloud Engineer | DevOps Enthusiast | LLM Implementation | Working Student<br>HackYeah Hackathon 2023 Winner</h3>
 
 ###
 
