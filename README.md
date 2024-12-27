@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Miłosz</h2>
-
+<h2 align="left"><a href="https://mkuch.pl">About me</h2>
 ###
 
 <h3 align="left">Python Cloud Engineer | DevOps Enthusiast | LLM Implementation | Working Student<br>HackYeah Hackathon 2023 Winner</h3>
