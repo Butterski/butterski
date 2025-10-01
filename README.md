@@ -75,7 +75,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=butterski&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" href="https://discord.com/users/215900363222417410" height="35" alt="discord logo"  />
+  <a href="https://discord.com/users/215900363222417410"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=butterski&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 </div>
 
 ###
