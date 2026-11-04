@@ -36,11 +36,12 @@ Independent contributor to an **Apache-2.0 inference engine and Polish/English A
 
 Selected, reproducible results:
 
-- **+64% decision throughput** (66.8 → 109.4 decisions/s) on an RTX 4060 Ti 16 GB for a 16-client single-question workload — [PR #29](https://github.com/rkinas/basal/pull/29).
-- **16.6 → 7.3 GB GPU memory after warm-up** for basal-2.0-mini with compact batches on H100, validated upstream — [PR #35](https://github.com/rkinas/basal/pull/35) · [PR #37](https://github.com/rkinas/basal/pull/37).
-- **Up to 1.49× faster `compress`** for long documents on basal-2.0-4.5B (H100, upstream measurements) — [PR #39](https://github.com/rkinas/basal/pull/39).
+* **basal-2.0-4.5B on 16 GB GPUs**: it used to run out of memory while capturing CUDA graphs; with memory-aware capture it starts and serves on an RTX 4060 Ti 16 GB — [PR #41](https://github.com/rkinas/basal/pull/41).
+* **16.6 → 7.3 GB GPU memory** after warm-up for basal-2.0-mini with compact batches on H100, validated upstream — [PR #35](https://github.com/rkinas/basal/pull/35) · [PR #37](https://github.com/rkinas/basal/pull/37).
+* **+64% decision throughput** (66.8 → 109.4 decisions/s) on an RTX 4060 Ti 16 GB for a 16-client single-question workload — [PR #29](https://github.com/rkinas/basal/pull/29).
+* **Up to 1.49× faster `compress`** for long documents on basal-2.0-4.5B (H100, upstream measurements) — [PR #39](https://github.com/rkinas/basal/pull/39).
 
-More work on memory-aware graph capture, CPU and GPU inference, and compatibility is documented in [basal's contributor credits](https://github.com/rkinas/basal#contributors).
+More, including faster cold starts through a persistent compile cache, a fused attention merge in the CUDA cascade, GGUF on every physical core and Apple Silicon (MPS) execution, is listed in [basal's contributor credits](https://github.com/rkinas/basal#contributors).
 
 ---
 
